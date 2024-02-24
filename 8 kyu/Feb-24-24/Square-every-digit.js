@@ -22,3 +22,5 @@ function squareDigits(num) {
 }
 
 console.log(squareDigits(123456789));
+
+//I found this problem difficult, because I did not know how to use for in loops, but it worked out at the end.
