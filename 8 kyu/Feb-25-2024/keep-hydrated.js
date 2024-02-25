@@ -15,3 +15,11 @@
 // We are given the time in hours and we want to know the number of litres Nathan will drink
 // The number must be rounded to the smallest value
 // We can solve this using Math.floor()
+
+function litres(time) {
+  return Math.floor(time * 0.5);
+}
+
+console.log(litres(2));
+console.log(litres(12));
+console.log(litres(23));
