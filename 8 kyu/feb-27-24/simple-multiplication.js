@@ -8,3 +8,8 @@ function simpleMultiplication(number) {
 console.log(simpleMultiplication(2));
 console.log(simpleMultiplication(3));
 console.log(simpleMultiplication(4));
+console.log(simpleMultiplication(4));
+console.log(simpleMultiplication(4));
+console.log(simpleMultiplication(4));
+console.log(simpleMultiplication(4));
+console.log(simpleMultiplication(4));
